@@ -16,7 +16,7 @@ int main(void)
 	time_inverse();
 	useful_func();
 
-	return 0;
+    return 0;
 }
 
 void mask_setTo()
