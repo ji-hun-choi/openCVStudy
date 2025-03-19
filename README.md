@@ -6,12 +6,17 @@
 
 # 실습환경
 
---- 
-    * Ubuntu 20.04
-    * Clion
-    * opencv 4.8.0
-    * cmake 3.29
----
+``` 
+* Ubuntu 20.04 LTS
+* Clion
+* opencv 4.10.0 + CUDA
+* cmake 3.29
+* CUDA 11.8
+* CUDNN 9.8.0
+```
+
+## 학습 기간
+- 25.03.05 ~ 진행중
 
 # 챕터
 
