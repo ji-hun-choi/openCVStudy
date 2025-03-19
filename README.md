@@ -40,9 +40,9 @@
 - [폴더](https://github.com/ji-hun-choi/openCVStudy/tree/master/ch07)
 - [상세 설명](https://github.com/ji-hun-choi/openCVStudy/wiki/Ch-07)
 
-## ch08 - 영상의 기하학적 변환 #TODO
-- [폴더]()
-- [상세 설명]()
+## ch08 - 영상의 기하학적 변환
+- [폴더](https://github.com/ji-hun-choi/openCVStudy/tree/master/ch08)
+- [상세 설명](https://github.com/ji-hun-choi/openCVStudy/wiki/Ch-08)
 
 ## ch09 - 에지 검출과 응용 #TODO
 - [폴더]()
