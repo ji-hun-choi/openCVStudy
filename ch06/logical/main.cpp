@@ -6,8 +6,8 @@ using namespace std;
 
 int main(void)
 {
-    Mat src1 = imread("lenna256.bmp", IMREAD_GRAYSCALE);
-    Mat src2 = imread("square.bmp", IMREAD_GRAYSCALE);
+    Mat src1 = imread("images/lenna256.bmp", IMREAD_GRAYSCALE);
+    Mat src2 = imread("images/square.bmp", IMREAD_GRAYSCALE);
 
     if (src1.empty() || src2.empty()) {
         cerr << "Image load failed!" << endl;
