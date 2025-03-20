@@ -49,9 +49,9 @@
 - [폴더](https://github.com/ji-hun-choi/openCVStudy/tree/master/ch08)
 - [상세 설명](https://github.com/ji-hun-choi/openCVStudy/wiki/Ch-08)
 
-## ch09 - 에지 검출과 응용 #TODO
-- [폴더]()
-- [상세 설명]()
+## ch09 - 에지 검출과 응용 
+- [폴더](https://github.com/ji-hun-choi/openCVStudy/tree/master/ch09)
+- [상세 설명](https://github.com/ji-hun-choi/openCVStudy/wiki/Ch-09)
 
 ## ch10 - 컬러 영상 처리 #TODO
 - [폴더]()
