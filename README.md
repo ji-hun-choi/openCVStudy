@@ -53,9 +53,9 @@
 - [폴더](https://github.com/ji-hun-choi/openCVStudy/tree/master/ch09)
 - [상세 설명](https://github.com/ji-hun-choi/openCVStudy/wiki/Ch-09)
 
-## ch10 - 컬러 영상 처리 #TODO
-- [폴더]()
-- [상세 설명]()
+## ch10 - 컬러 영상 처리
+- [폴더](https://github.com/ji-hun-choi/openCVStudy/tree/master/ch10)
+- [상세 설명](https://github.com/ji-hun-choi/openCVStudy/wiki/Ch-10)
 
 ## ch11 - 이진화와 모폴로지 #TODO
 - [폴더]()
