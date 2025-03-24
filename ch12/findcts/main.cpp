@@ -17,7 +17,7 @@ int main(void)
 
 void contours_basic()
 {
-    Mat src = imread("contours.bmp", IMREAD_GRAYSCALE);
+    Mat src = imread("images/contours.bmp", IMREAD_GRAYSCALE);
 
     if (src.empty()) {
         cerr << "Image load failed!" << endl;
