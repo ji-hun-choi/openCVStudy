@@ -58,8 +58,8 @@
 - [상세 설명](https://github.com/ji-hun-choi/openCVStudy/wiki/Ch-10)
 
 ## ch11 - 이진화와 모폴로지 #TODO
-- [폴더]()
-- [상세 설명]()
+- [폴더](https://github.com/ji-hun-choi/openCVStudy/tree/master/ch11)
+- [상세 설명](https://github.com/ji-hun-choi/openCVStudy/wiki/Ch-11)
 
 ## ch12 - 레이블링과 외곽선 검출 #TODO
 - [폴더]()
