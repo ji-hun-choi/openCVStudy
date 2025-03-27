@@ -78,5 +78,5 @@
 - [상세 설명](https://github.com/ji-hun-choi/openCVStudy/wiki/Ch-15)
 
 ## ch16 - 딥러닝과 OpenCV #TODO
-- [폴더]()
-- [상세 설명]()
+- [폴더](https://github.com/ji-hun-choi/openCVStudy/tree/master/ch16)
+- [상세 설명](https://github.com/ji-hun-choi/openCVStudy/wiki/Ch-16)
