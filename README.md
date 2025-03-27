@@ -57,25 +57,25 @@
 - [폴더](https://github.com/ji-hun-choi/openCVStudy/tree/master/ch10)
 - [상세 설명](https://github.com/ji-hun-choi/openCVStudy/wiki/Ch-10)
 
-## ch11 - 이진화와 모폴로지 #TODO
+## ch11 - 이진화와 모폴로지
 - [폴더](https://github.com/ji-hun-choi/openCVStudy/tree/master/ch11)
 - [상세 설명](https://github.com/ji-hun-choi/openCVStudy/wiki/Ch-11)
 
-## ch12 - 레이블링과 외곽선 검출 #TODO
-- [폴더]()
-- [상세 설명]()
+## ch12 - 레이블링과 외곽선 검출
+- [폴더](https://github.com/ji-hun-choi/openCVStudy/tree/master/ch12)
+- [상세 설명](https://github.com/ji-hun-choi/openCVStudy/wiki/Ch-12)
 
-## ch13 - 객체 검출 #TODO
-- [폴더]()
-- [상세 설명]()
+## ch13 - 객체 검출
+- [폴더](https://github.com/ji-hun-choi/openCVStudy/tree/master/ch13)
+- [상세 설명](https://github.com/ji-hun-choi/openCVStudy/wiki/Ch-13)
 
-## ch14 - 지역 특징점 검출과 매칭 #TODO
-- [폴더]()
-- [상세 설명]()
+## ch14 - 지역 특징점 검출과 매칭
+- [폴더](https://github.com/ji-hun-choi/openCVStudy/tree/master/ch14)
+- [상세 설명](https://github.com/ji-hun-choi/openCVStudy/wiki/Ch-14)
 
-## ch15 - 머신 러닝 #TODO
-- [폴더]()
-- [상세 설명]()
+## ch15 - 머신 러닝
+- [폴더](https://github.com/ji-hun-choi/openCVStudy/tree/master/ch15)
+- [상세 설명](https://github.com/ji-hun-choi/openCVStudy/wiki/Ch-15)
 
 ## ch16 - 딥러닝과 OpenCV #TODO
 - [폴더]()
